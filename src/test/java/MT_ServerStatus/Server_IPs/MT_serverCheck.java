@@ -17,7 +17,7 @@ public class MT_serverCheck
 	
 	@DataProvider
 	 public Object[][] getnodeips() throws IOException {
-		String[][] nodeIPs = {{"ip1", "10.170.107.25"}, {"ip2", "10.170.107.24"}};
+		String[][] nodeIPs = {{"ip1", "10.170.107.26"}, {"ip2", "10.170.107.24"}};
 		return nodeIPs;
 	 }
 	
