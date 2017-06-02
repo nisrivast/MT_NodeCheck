@@ -1,0 +1,6 @@
+<suite name="ServerStatus" configfailurepolicy="continue">
+ <test name="Check">
+  
+    <classes><class name="MT_ServerStatus.Server_IPs.MT_serverCheck"/></classes>
+  </test>
+ </suite>
